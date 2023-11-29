@@ -8,4 +8,4 @@ elif number == 0:
     result = "zero"
 else:
     result = "positive"
-print(f"{number} is {result}\n")
+print(f"{number} is {result}")
